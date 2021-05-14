@@ -9,6 +9,9 @@ public class MyApp {
 		
 		Coach theCoach2 = new TrackCoach();
 		System.out.println(theCoach2.getDailyWorkout());
+		
+		Coach theCoach3 = new BasketballCoach();
+		System.out.println(theCoach3.getDailyWorkout());
 	}
 
 }
