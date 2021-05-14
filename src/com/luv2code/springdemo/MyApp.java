@@ -13,5 +13,4 @@ public class MyApp {
 		Coach theCoach3 = new BasketballCoach();
 		System.out.println(theCoach3.getDailyWorkout());
 	}
-
 }
